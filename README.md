@@ -19,6 +19,8 @@ I've already worked as a RPA Developer for 1 year and a half years.
 - **RPA projects**
 - **Backend or Fullstack development**
 - **Arduino projects**
+- **Data Science**
+- **Machine Learning**
 - **Game development**
 
 <br>
