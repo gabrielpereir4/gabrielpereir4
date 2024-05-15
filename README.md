@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Gabriel and my username is gabrielpereir4. I'm brazilian, and 20 years old!
+My name is Gabriel and my username is gabrielpereir4. I'm brazilian, and 21 years old!
 
 I'm currently a software development student at UNICAMP, Universidade Estadual de Campinas.
 I've already worked as a RPA Developer for 1 year and a half years.
