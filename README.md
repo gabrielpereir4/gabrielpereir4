@@ -5,6 +5,22 @@ I'm currently a software development student at UNICAMP, Universidade Estadual d
 I've already worked as a RPA Developer for 1 year and a half years, doing low-code automations.
 I've taken part in several academic and personal projects that range from backend projects to games and websites.
 
+<br>
+
+## Check my Github Pages' Portfolio here:
+<div>
+  <a href="https://gabrielpereir4.github.io/" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-Portfolio-7900C2?style=for-the-badge&logo=web&logoColor=white" target="_blank">
+  </a>   
+</div>
+
+<br>
+
+## View my Linkedin profile here:
+<div>
+  <a href="https://www.linkedin.com/in/gabriel-josé-pereira-42316b217" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 <h1>Languages I've worked with:</h1>
 <div style="display: flex; flex-direction: row;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width='50' height='50'/>
@@ -24,14 +40,6 @@ I've taken part in several academic and personal projects that range from backen
 - **Arduino projects**
 - **Data Science**
 - **Machine Learning**
-
-
-<br>
-
-## View my Linkedin profile here:
-<div>
-  <a href="https://www.linkedin.com/in/gabriel-josé-pereira-42316b217" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
 
 <br>
 
