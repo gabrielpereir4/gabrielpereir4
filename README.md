@@ -1,8 +1,9 @@
 ### Hi there 👋
-My name is Gabriel and my username is gabrielpereir4. I'm brazilian, and 21 years old!
+My name is Gabriel and my username is gabrielpereir4. I'm a 21 years old Brazilian software dev.
 
 I'm currently a software development student at UNICAMP, Universidade Estadual de Campinas.
-I've already worked as a RPA Developer for 1 year and a half years.
+I've already worked as a RPA Developer for 1 year and a half years, doing low-code automations.
+I've taken part in several academic and personal projects that range from backend projects to games and websites.
 
 <h1>Languages I've worked with:</h1>
 <div style="display: flex; flex-direction: row;">
@@ -10,18 +11,20 @@ I've already worked as a RPA Developer for 1 year and a half years.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width='50' height='50'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width='50' height='50'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width='50' height='50'/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width='50' height='50'/>        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width='50' height='50'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width='50' height='50'/>
 </div>
 
 <br>
 
 # Projects I'm interested in:
-- **RPA projects**
 - **Backend or Fullstack development**
+- **Game development**
+- **RPA projects**
 - **Arduino projects**
 - **Data Science**
 - **Machine Learning**
-- **Game development**
+
 
 <br>
 
