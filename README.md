@@ -5,7 +5,7 @@ I'm a software developer graduated from UNICAMP, Universidade Estadual de Campin
 I've already worked as a RPA Developer for 1 year and a half years, doing low-code automations.
 I've taken part in several academic and personal projects that range from backend projects to games and websites.
 
-Recently, I've taken part in a Undergraduate Research project on my last year at UNICAMP; developing a Python-based Visualization system for Data Assimilation steps of Oil Reserves Exploration (Check my[DAVis Heatmap View](https://github.com/gabrielpereir4/davis_heatmap_view) repository).
+Recently, I've taken part in a Undergraduate Research project on my last year at UNICAMP; developing a Python-based Visualization system for Data Assimilation steps of Oil Reserves Exploration (Check my [DAVis Heatmap View](https://github.com/gabrielpereir4/davis_heatmap_view) repository).
 
 <br>
 
