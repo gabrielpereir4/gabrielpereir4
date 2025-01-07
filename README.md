@@ -31,6 +31,7 @@ Recently, I've taken part in a Undergraduate Research project on my last year at
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width='50' height='50' title='C'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width='50' height='50' title='C++'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width='50' height='50' title='Flutter'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width='50' height='50' title='JavaScript'/>
 </div>
 
 <h1>Tools, Frameworks and Others:</h1>
