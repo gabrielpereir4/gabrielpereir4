@@ -23,6 +23,13 @@ Recently, I've taken part in a Undergraduate Research project on my last year at
   <a href="https://www.linkedin.com/in/gabriel-josé-pereira-42316b217" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+## Check my Lattes CV here:
+<div>
+  <a href="http://lattes.cnpq.br/9637647215636047" target="_blank">
+    <img src="https://img.shields.io/badge/-Lattes-%231A73E8?style=for-the-badge&logoColor=white" alt="Lattes">
+  </a>
+</div>
+
 <h1>Languages I've worked with:</h1>
 <div style="display: flex; flex-direction: row;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width='50' height='50' title="Python"/>
