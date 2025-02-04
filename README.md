@@ -11,7 +11,7 @@ Recently, I've taken part in a Undergraduate Research project on my last year at
 
 ## Check my Github Pages' Portfolio here:
 <div>
-  <a href="https://gabrielpereir4.github.io/" target="_blank">
+  <a href="https://gabrielpereir4.github.io/gabriel-portfolio/" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-Portfolio-7900C2?style=for-the-badge&logo=web&logoColor=white" target="_blank">
   </a>   
 </div>
