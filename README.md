@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Gabriel and my username is gabrielpereir4. I'm a 21 years old Brazilian software dev.
+My name is Gabriel and my username is gabrielpereir4. I'm a software developer located in Brazil.
 
 I'm a software developer graduated from UNICAMP (Universidade Estadual de Campinas) and a future M. Sc. student at USP (Universidade de São Paulo). <br>
 I've already worked as a RPA Developer for 1 year and a half years, doing low-code automations.
