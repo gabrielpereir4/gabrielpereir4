@@ -1,7 +1,7 @@
 ### Hi there 👋
-My name is Gabriel and my username is gabrielpereir4. I'm a software developer located in Brazil.
+My name is Gabriel and my username is gabrielpereir4. I'm a software developer located in São Paulo, Brazil.
 
-I'm a software developer graduated from UNICAMP (Universidade Estadual de Campinas) and a future M. Sc. student at USP (Universidade de São Paulo). <br>
+I'm a software developer graduated from UNICAMP (Universidade Estadual de Campinas) and a M. Sc. student at the Institute of Mathematics and Statistics (IME), USP (Universidade de São Paulo). <br>
 I've already worked as a RPA Developer for 1 year and a half years, doing low-code automations.
 I've taken part in several academic and personal projects that range from backend projects to games and websites.
 
@@ -64,7 +64,7 @@ Recently, I've taken part in a Undergraduate Research project on my last year at
 <br>
 
 # Projects I'm interested in:
-- **Backend or Fullstack development**
+- **Backend, Fullstack development**
 - **Game development**
 - **RPA projects**
 - **Arduino projects**
