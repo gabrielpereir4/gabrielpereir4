@@ -7,6 +7,8 @@ I've taken part in several academic and personal projects that range from backen
 
 Recently, I've taken part in a Undergraduate Research project on my last year at UNICAMP; developing a Python-based Visualization system for Data Assimilation steps of Oil Reserves Exploration (Check my [DAVis Heatmap View](https://github.com/gabrielpereir4/davis_heatmap_view) repository).
 
+Currently, I'm a RPA Consultant/Developer at Bauru, São Paulo *Join4*.
+
 <br>
 
 ## Check my Github Pages' Portfolio here:
