@@ -1,13 +1,12 @@
 ### Hi there 👋
 My name is Gabriel and my username is gabrielpereir4. I'm a software developer located in São Paulo, Brazil.
 
-I'm a software developer graduated from UNICAMP (Universidade Estadual de Campinas) and a M. Sc. student at the Institute of Mathematics and Statistics (IME), USP (Universidade de São Paulo). <br>
-I've already worked as a RPA Developer for 1 year and a half years, doing low-code automations.
+I'm currently a Fullstack Java Developer for Timpel Medical (São Paulo, Brazil; but present worldwide), developing and improving an EIT solution with new features, bug fixes, documentation and tests (My team uses Gitea, so, no commit history from work here)
+I've also worked as a RPA Developer for over 1 year and a half years, doing low-code, Python and Java automations.
+I've graduated from UNICAMP (Universidade Estadual de Campinas) and I was recently approved as a M. Sc. student at the Institute of Mathematics and Statistics (IME), USP (Universidade de São Paulo). <br>
 I've taken part in several academic and personal projects that range from backend projects to games and websites.
 
-Recently, I've taken part in a Undergraduate Research project on my last year at UNICAMP; developing a Python-based Visualization system for Data Assimilation steps of Oil Reserves Exploration (Check my [DAVis Heatmap View](https://github.com/gabrielpereir4/davis_heatmap_view) repository).
-
-Currently, I'm a Java Developer for Timpel Medical, located at São Paulo, Brazil.
+On my last year of college, I've taken part in a Undergraduate Research project on my last year at UNICAMP; developing a Python-based Visualization system for Data Assimilation steps of Oil Reserves Exploration (Check my [DAVis Heatmap View](https://github.com/gabrielpereir4/davis_heatmap_view) repository).
 
 <br>
 
